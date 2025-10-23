@@ -21,12 +21,5 @@
 
 ---
 
-### 🌟 Featured Projects
-- 🧩 **[Project Name 1](#)** – REST API with Spring Boot and MongoDB  
-- 🗄️ **[Project Name 2](#)** – SolrDB search integration for web app  
-- ⚙️ **[Project Name 3](#)** – Full backend for business management tool
-
----
-
 ### 📫 Connect with Me
 💼 [www.linkedin.com/in/pragadeesh-k-2bab23285](#) • 🧑‍💻 [https://github.com/Pragadeezh](#) • ✉️ pragadeezh.k@gmail.com
