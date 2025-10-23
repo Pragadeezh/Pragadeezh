@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Pragadeesh!
+# 👋 Pragadeesh
 
 💻 **Java Developer** passionate about building scalable and efficient web applications.
 
@@ -22,4 +22,6 @@
 ---
 
 ### 📫 Connect with Me
-💼 [www.linkedin.com/in/pragadeesh-k-2bab23285](#) • 🧑‍💻 [https://github.com/Pragadeezh](#) • ✉️ pragadeezh.k@gmail.com
+💼 [www.linkedin.com/in/pragadeesh-k-2bab23285](#) • 
+🧑‍💻 [https://github.com/Pragadeezh](#) • 
+✉️ pragadeezh.k@gmail.com
