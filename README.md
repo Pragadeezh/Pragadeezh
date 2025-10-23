@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Pragadeesh!
 
-💻 **Java Backend Developer** passionate about building scalable and efficient web applications.
+💻 **Java Developer** passionate about building scalable and efficient web applications.
 
 ---
 
@@ -14,10 +14,10 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Java, SQL  
-- **Frameworks:** Spring Boot, Hibernate  
+- **Languages:** Core Java  
+- **Frameworks:** Spring Boot 
 - **Databases:** MongoDB, PostgreSQL, SolrDB  
-- **Tools:** GitHub, Maven, Postman, PuTTY, Docker (basic)
+- **Tools:** GitHub, Maven, Postman, Swagger, PuTTY, Docker (basic)
 
 ---
 
@@ -29,4 +29,4 @@
 ---
 
 ### 📫 Connect with Me
-💼 [LinkedIn](#) • 🧑‍💻 [GitHub](#) • ✉️ pragadeesh@example.com
+💼 [www.linkedin.com/in/pragadeesh-k-2bab23285](#) • 🧑‍💻 [https://github.com/Pragadeezh](#) • ✉️ pragadeezh.k@gmail.com
