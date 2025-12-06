@@ -8,7 +8,7 @@
 - 🌱 Currently a **Software Trainee** at *Impulse Design*, working on real-world backend systems  
 - 💼 Previously an **Intern** at *Trackeasy Software Solutions*, exploring **REST API development**  
 - 🧠 Skilled in **Spring Boot**, **MongoDB**, **PostgreSQL**, **SolrDB**, and **PuTTY**  
-- 🧩 Interested in backend architecture, database optimization, and API design  
+- 🧩 Interested in backend architecture, database optimisation, and API design  
 - 🔍 Always exploring **microservices**, **Spring Security**, and **Docker**
 
 ---
