@@ -22,6 +22,6 @@
 ---
 
 ### 📫 Connect with Me
-💼 [LinkedIn](https://www.linkedin.com/in/pragadeezh-k)
-🧑‍💻 [https://github.com/Pragadeezh](#) •
-✉️ pragadeezh.k@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/pragadeezh-k)       
+🧑‍💻 [Github](https://github.com/Pragadeezh)        
+✉️ [Mail](pragadeezh.k@gmail.com)
