@@ -5,8 +5,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently a **Software Trainee** at *Impulse Design*, working on real-world backend systems  
-- 💼 Previously an **Intern** at *Trackeasy Software Solutions*, exploring **REST API development**  
+- 🌱 Previously a **Software Trainee** at *Impulse Design*, working on real-world backend systems   
 - 🧠 Skilled in **Spring Boot**, **MongoDB**, **PostgreSQL**, **SolrDB**, and **PuTTY**  
 - 🧩 Interested in backend architecture, database optimisation, and API design  
 - 🔍 Always exploring **microservices**, **Spring Security**, and **Docker**
@@ -16,8 +15,8 @@
 ### 🛠️ Tech Stack
 - **Languages:** Core Java  
 - **Frameworks:** Spring Boot 
-- **Databases:** MongoDB, PostgreSQL, SolrDB  
-- **Tools:** GitHub, Maven, Postman, Swagger, PuTTY, Docker (basic)
+- **Databases:** MongoDB, PostgreSQL  
+- **Tools:** GitHub
 
 ---
 
