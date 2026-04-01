@@ -13,7 +13,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Core Java  
+- **Languages:** Core Java, JavaScript
 - **Frameworks:** Spring Boot 
 - **Databases:** MongoDB, PostgreSQL  
 - **Tools:** GitHub
