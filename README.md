@@ -12,6 +12,25 @@
 
 ---
 
+### 📂 Projects
+
+#### 🌐 Web Monitor Application
+> A backend application that crawls a given URL and extracts specific keywords defined in the keywords column.
+
+**🔧 Features:**
+- 🔗 Accepts a target URL as input
+- 🗝️ Reads a list of keywords from the configured keywords column
+- 🕷️ Crawls/fetches the web page content from the provided URL
+- 🔍 Scans and retrieves matched keywords from the page
+- 📊 Returns structured results for monitoring and analysis
+
+**🧰 Tech Used:** `Java` `Spring Boot` `REST API` `Web Scraping/HTTP Client` `MonggoDB`
+
+🔗 [View on GitHub](https://github.com/Pragadeezh)
+🔗 [Web-Monitor](https://web-monitor-2npp.onrender.com)
+
+---
+
 ### 🛠️ Tech Stack
 - **Languages:** Core Java, JavaScript
 - **Frameworks:** Spring Boot 
