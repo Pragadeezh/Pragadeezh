@@ -24,7 +24,7 @@
 - 🔍 Scans and retrieves matched keywords from the page
 - 📊 Returns structured results for monitoring and analysis
 
-**🧰 Tech Used:** `Java` `Spring Boot` `REST API` `Web Scraping/HTTP Client` `MonggoDB`
+**🧰 Tech Used:** `Java` `Spring Boot` `REST API` `Web Scraping/HTTP Client` `MongoDB`
 
 🔗 [View on GitHub](https://github.com/Pragadeezh)
 🔗 [Web-Monitor](https://web-monitor-2npp.onrender.com)
